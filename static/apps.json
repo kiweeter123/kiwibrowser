@@ -1,0 +1,97 @@
+[
+    {
+        "title": "Google",
+        "img": "./img/apps/google.jpg",
+        "location": "https://www.google.com"
+    },
+    {
+        "title": "Youtube",
+        "img": "./img/apps/yt.png",
+        "location": "https://www.youtube.com"
+    },
+    {
+        "title": "Spotify",
+        "img": "./img/apps/spot.png",
+        "location": "https://open.spotify.com"
+    },
+    {
+        "title": "Twitter",
+        "img": "./img/apps/twt.png",
+        "location": "https://twitter.com/explore"
+    },
+     {
+        "title": "Instagram",
+        "img": "./img/apps/instagram.png",
+        "location": "https://instagram.com"
+    },
+    {
+        "title": "Reddit",
+        "img": "./img/apps/rt.png",
+        "location": "https://reddit.com"
+    },
+    {
+        "title": "Twitch",
+        "img": "./img/apps/tich.jpg",
+        "location": "https://twitch.tv"
+    },
+    {
+        "title": "Discord",
+        "img": "./img/apps/dd.jpg",
+        "location": "https://discord.com/app"
+    },
+    {
+        "title": "CoolMathGames",
+        "img": "./img/apps/cmg.png",
+        "location": "https://www.coolmathgames.com"
+    },
+    {
+        "title": "Geforce Now",
+        "img": "./img/apps/gfnow.png",
+        "location": "https://play.geforcenow.com"
+    },
+    {
+        "title": "Y8",
+        "img": "./img/apps/y8.png",
+        "location": "https://www.y8.com"
+    },
+    {
+        "title": "Netflix",
+        "img": "./img/apps/netflix.png",
+        "location": "https://www.netflix.com"
+    },
+    {
+        "title": "TikTok",
+        "img": "./img/apps/tiktok.png",
+        "location": "https://www.tiktok.com"
+    },
+    {
+        "title": "HBO Max",
+        "img": "./img/apps/hbomax.png",
+        "location": "https://www.hbomax.com"
+    },
+     {
+        "title": "Addicting Games",
+        "img": "./img/apps/addictinggames.png",
+        "location": "https://www.addictinggames.com"
+    },
+     { 
+        "title": "Apple Music",
+        "img": "./img/apps/applemusiclogo.png",
+        "location": "https://music.apple.com/us/browse"
+    },
+     {
+        "title": "Gradesaver",
+        "img": "./img/apps/gradesaver2.png",
+        "location": "https://www.gradesaver.com"
+     },
+     {
+        "title": "Stremio",
+        "img": "./img/apps/stremiofinal.png",
+        "location": "https://web.stremio.com/#/intro?form=login"
+    },
+    {
+        "title": "Bard",
+        "img": "./img/apps/bard.png",
+        "location": "https://bard.google.com"
+    }
+]
